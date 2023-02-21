@@ -1,0 +1,19 @@
+.color-picker {
+  padding: 200px;
+  display: flex;
+  justify-content: center;
+}
+
+.color-picker__options {
+  width: 70px;
+  height: 70px;
+  border: none;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
